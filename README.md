@@ -7,7 +7,7 @@
 	</tr>
 </table>
 
-<table>
+<table border="0">
 	<tr>
 		<td>
 			<p>I'm Tessa or Florian. I'm an eager developer committed to carving a path for open-source accessibility tools to annihilate the daily challenges my disability throws at me... and also having lots of fun with technology and coding!</p>
@@ -23,7 +23,7 @@
 	</tr>
 </table>
 
-<p color="red">[Coming soon] Conway's Game Of Life... GitHub edition!</p>
+<p style="color:red;">[Coming soon] Conway's Game Of Life... GitHub edition!</p>
 
 ### Thanks for reading and feel free to reach out! ![A png of the paw of the charecter from my profile picture giving a piece sign](paw.png)
 
