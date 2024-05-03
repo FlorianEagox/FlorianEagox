@@ -25,7 +25,8 @@
 
 
 Play Conways Game Of Life
-![A bitmap rendered from conway's game of life](https://api.tessapainter.com/conway/bitmap)
+
+<img src="https://api.tessapainter.com/conway/bitmap" alt="A bitmap rendered from conway's game of life">
 
 <!-- ![Next Step](https://img.shields.io/badge/Next-Step-Orange?style=plastic&logo=dependbot&logoColor=orange&labelColor=orange&color=orange&link=https%3A%2F%2Fapi.tessapainter.com%2Fconway%2Fstep%3Fgh%3Dtrue) -->
 [Next Step](https://api.tessapainter.com/conway/step?gh=true)
