@@ -27,11 +27,10 @@
 Play Conways Game Of Life
 
 <img src="https://api.tessapainter.com/conway/bitmap" alt="A bitmap rendered from conway's game of life">
+<img src="https://api.tessapainter.com/conway/gif" alt="A gif rendered from the duration of the current run of conway's game of life">
 
 <!-- ![Next Step](https://img.shields.io/badge/Next-Step-Orange?style=plastic&logo=dependbot&logoColor=orange&labelColor=orange&color=orange&link=https%3A%2F%2Fapi.tessapainter.com%2Fconway%2Fstep%3Fgh%3Dtrue) -->
 [Next Step](https://api.tessapainter.com/conway/step?gh=true)
-
-<!-- ![Reset](https://img.shields.io/badge/Reset-Board-Orange?style=plastic&logo=dependbot&logoColor=orange&labelColor=orange&color=orange&link=https%3A%2F%2Fapi.tessapainter.com%2Fconway%2Freset?gh=true) -->
 [Reset Board](https://api.tessapainter.com/conway/reset?gh=true)
 
 
