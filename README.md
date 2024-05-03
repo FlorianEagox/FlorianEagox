@@ -27,7 +27,7 @@
 Play Conways Game Of Life
 ![A bitmap rendered from conway's game of life](https://api.tessapainter.com/conway/bitmap)
 
-![Static Badge](https://img.shields.io/badge/Next-Step-Orange?style=plastic&logo=dependbot&logoColor=orange&labelColor=orange&color=orange&link=https%3A%2F%2Fapi.tessapainter.com%2Fconway%2Fstep?gh=true)
+![Next Step](https://img.shields.io/badge/Next-Step-Orange?style=plastic&logo=dependbot&logoColor=orange&labelColor=orange&color=orange&link=https%3A%2F%2Fapi.tessapainter.com%2Fconway%2Fstep%3Fgh%3Dtrue)
 
 ![Reset](https://img.shields.io/badge/Reset-Board-Orange?style=plastic&logo=dependbot&logoColor=orange&labelColor=orange&color=orange&link=https%3A%2F%2Fapi.tessapainter.com%2Fconway%2Freset?gh=true)
 
