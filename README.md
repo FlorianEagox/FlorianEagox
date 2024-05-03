@@ -18,12 +18,18 @@
 			<p>This is a program to dub videos into other languages using a suite of advanced AI tools. I've been working on it on and off for about a year and it's come a long way!</p>
 		</td>
 		<td>
-			<img src="florian.png" alt="A PNG of my fursona Florian, the same charecter in the bio. THey are a red fox/eagle hybrid with big beautiful wings, and a dazzling triangle embedded in their chest">
+			<img src="florian.png" alt="A PNG of my fursona Florian, the same charecter in the bio. They are a red fox/gold eagle hybrid with big beautiful wings, and a dazzling triangle embedded in their chest">
 		</td>
 	</tr>
 </table>
 
-<p style="color:red;">[Coming soon] Conway's Game Of Life... GitHub edition!</p>
+
+Play Conways Game Of Life
+![A bitmap rendered from conway's game of life](https://api.tessapainter.com/conway/bitmap)
+
+![Static Badge](https://img.shields.io/badge/Next-Step-Orange?style=plastic&logo=dependbot&logoColor=orange&labelColor=orange&color=orange&link=https%3A%2F%2Fapi.tessapainter.com%2Fconway%2Fstep?gh=true)
+
+![Reset](https://img.shields.io/badge/Reset-Board-Orange?style=plastic&logo=dependbot&logoColor=orange&labelColor=orange&color=orange&link=https%3A%2F%2Fapi.tessapainter.com%2Fconway%2Freset?gh=true)
 
 ### Thanks for reading and feel free to reach out! ![A png of the paw of the charecter from my profile picture giving a piece sign](paw.png)
 
