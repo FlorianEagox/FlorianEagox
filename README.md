@@ -25,6 +25,8 @@
 	</tr>
 </table>
 
+🌱 Currently Learning: Ableton LIVE for music and PyTorch Machine Learning with CUDA
+
 ## Check Out my Website and Blog!
 
 You can learn more about me and see more of my work, art, and wwritting at
@@ -44,8 +46,6 @@ Play Conways Game Of Life
 <!-- ![Next Step](https://img.shields.io/badge/Next-Step-Orange?style=plastic&logo=dependbot&logoColor=orange&labelColor=orange&color=orange&link=https%3A%2F%2Fapi.tessapainter.com%2Fconway%2Fstep%3Fgh%3Dtrue) -->
 [Next Step](https://api.tessapainter.com/conway/step?gh=true)
 [Reset Board](https://api.tessapainter.com/conway/reset?gh=true)
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=FlorianEagox)](https://github.com/gazf/github-readme-twitter)
 
 ### Thanks for reading and feel free to reach out!
 
