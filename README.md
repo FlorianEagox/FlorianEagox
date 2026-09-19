@@ -5,7 +5,7 @@
 <table>
 	<tr>
 		<td>You are visitor</td>
-		<td><img src="https://profile-counter.glitch.me/{FlorianEagox}/count.svg" alt="Live visitor count image" /></td>
+		<td><img src="https://komarev.com/ghpvc/?username=FlorianEagox&color=green&base=3720&label=%23&style=for-the-badge" alt="Live visitor count image" /></td>
 	</tr>
 </table>
 
